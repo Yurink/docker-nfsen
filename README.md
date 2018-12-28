@@ -1,7 +1,7 @@
 Docker NFSEN
 ============
 
-NFSEN is a frontent to NFDUMP. It is used to collect and process NetFlow data from network devices.
+NFSEN is a frontend for NFDUMP. It is used to collect and process NetFlow data from network devices.
 
 How to run
 ----------
